@@ -1,2 +1,3 @@
 # SignUpForm
 In this SignUpForm the user can sign up by typing their name in the name text box, their email in the email text box, password in the password text box, and password configuration in the password configuration box. after filling out all the information the user can click the "Save" button. After clicking the "Save" button the app will check to make sure all the text boxes are filled in with the correct information and also it will check to make sure that the password and the password confirmation is matching. After all the information is filled in the correctly and the passwords match, A message will display saying"Welcome, users name, to the SignUpForm".
+/home/hasan/Pictures/device-2020-02-13-013538.png
